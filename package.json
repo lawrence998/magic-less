@@ -5,17 +5,17 @@
   "license": "MIT",
   "keywords": [
     "less",
-    "magicless"
+    "magic-less"
   ],
   "scripts": {
     "release": "np"
   },
   "bugs": {
-    "url": "https://github.com/lawrence998/magicless/issues"
+    "url": "https://github.com/lawrence998/magic-less/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lawrence998/magicless.git"
+    "url": "https://github.com/lawrence998/magic-less.git"
   },
   "devDependencies": {
     "np": "*"
